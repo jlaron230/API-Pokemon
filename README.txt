@@ -1,7 +1,17 @@
-Voici la présentation d'une API pokémon pour rechercher un pokémon dans une barre de recherche 
-où d'afficher une liste de 10 pokémon.
+## Projet 4: API Pokémon
 
--L'api est simple d'utilisation, il vous suffit de télécharger le projet et de lancer le HTML en serveur local. 
--Profiter de l'api pour chercher tous les pokémon.
+**Description** : Application permettant de rechercher un Pokémon via une barre de recherche et d'afficher une liste de 10 Pokémon.  
+**Technologies** : HTML, CSS, JavaScript  
 
--index.html pour la structure, le style.css pour le style et le js pour l'aspect dynamique.
+**Instructions** :
+- **Téléchargez le projet** et lancez le fichier `index.html` sur un serveur local pour faire fonctionner l'application.
+- **Utilisez l'API** pour rechercher tous les Pokémon disponibles.
+
+**Structure du Projet** :
+- **`index.html`** : Structure de la page
+- **`style.css`** : Mise en forme et styles de l'interface utilisateur
+- **`script.js`** : Gestion dynamique des données et intégration de l'API
+
+**Fonctionnalités** :
+- Barre de recherche pour trouver des Pokémon
+- Affichage dynamique d'une liste de 10 Pokémon
